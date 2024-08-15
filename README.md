@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
-<h3 align="center">I'm a tech enthusiast with a strong background in **web development**, **embedded systems**, and **electronics.** Throughout my career, I've gained experience across various fields, making me a well-rounded and skilled individual in the tech world.</h3>
+<h3 align="center">I'm a tech enthusiast with a strong background in <strong>web development</strong> , <strong>embedded systems</strong>, and <strong>electronics</strong>. Throughout my career, I've gained experience across various fields, making me a well-rounded and skilled individual in the tech world.</h3>
 
 
 - 🌱 I’m currently learning **React**
