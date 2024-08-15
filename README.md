@@ -1,8 +1,8 @@
 <h3 align="center">
     I'm a tech enthusiast with a strong background in 
-    <strong style="color: hsl(45, 100%, 72%);;">web development</strong>, 
-    <strong style="color: hsl(45, 100%, 72%);;">embedded systems</strong>, and 
-    <strong style="color: hsl(45, 100%, 72%);;">electronics</strong>. 
+    <strong style="color: hsl(45, 100%, 72%);">web development</strong>, 
+    <strong style="color: hsl(45, 100%, 72%);">embedded systems</strong>, and 
+    <strong style="color: hsl(45, 100%, 72%);">electronics</strong>. 
     Throughout my career, I've gained experience across various fields, making me a well-rounded and skilled individual in the tech world.
 </h3>
 
