@@ -52,8 +52,8 @@
 <div align="center">
     <img width="100%" style="margin:0.5rem 0" src="https://streak-stats.demolab.com/?user=o0phoenix0o&theme=react" />
     <img width="100%" style="margin:0.5rem 0" src="https://github-readme-activity-graph.vercel.app/graph?username=o0phoenix0o&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-    <img width="100%" style="margin:0.5rem 0" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en"/>
-    <img width="100%" style="margin:0.5rem 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0phoenix0o&layout=compact&langs_count=10&theme=react"/>
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="soul-999-ayu" /></p>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soul-999-ayu" /></p>
 </div>
 
 <div align="center">
