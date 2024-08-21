@@ -58,7 +58,7 @@
 
 <div align="center">
     <h2>🔗 Connect with me:</h2>
-    <a href="https://www.linkedin.com/in/ujjwa-lehri/">
+    <a href="https://www.linkedin.com/in/ujjwal-lehri">
         <img  src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" /> 
     </a>
     <a href="mailto:ujjwallehri33@gmail.com">
