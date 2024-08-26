@@ -51,8 +51,8 @@
 
 <div align="left">
     <img style="margin:0.5rem 0" src="https://streak-stats.demolab.com/?user=o0phoenix0o&theme=react" />
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="o0PHOENIX0o" /></p>
-    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="o0PHOENIX0o" /></p>
+    <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="o0PHOENIX0o" /></p>
+    <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="o0PHOENIX0o" /></p>
 </div>
 
 <div align="center">
