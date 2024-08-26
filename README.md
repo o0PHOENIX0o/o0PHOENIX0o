@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">
     I'm a tech enthusiast with a strong background in 
-    <strong style="color: hsl(45, 100%, 72%);;">web development</strong>, 
-    <strong style="color: hsl(45, 100%, 72%);;">embedded systems</strong>, and 
-    <strong style="color: hsl(45, 100%, 72%);;">electronics</strong>. 
+    <strong style="color: hsl(45, 100%, 72%)">web development</strong>, 
+    <strong style="color: hsl(45, 100%, 72%)">embedded systems</strong>, and 
+    <strong style="color: hsl(45, 100%, 72%)">electronics</strong>. 
     Throughout my career, I've gained experience across various fields, making me a well-rounded and skilled individual in the tech world.
 </h3>
 
-
+#e54a6c
 
 
 
@@ -50,13 +50,21 @@
 
 
 <div align="center">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=o0phoenix0o&theme=react" />
-    <br><br>
-    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="o0PHOENIX0o" />
-    <br><br>
-    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="o0PHOENIX0o" />
+    <div style="margin: 1rem 0;">
+        <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=o0PHOENIX0o&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
+    </a>
+    </div>
+    <div style="margin: 1rem 0;">
+          <img src="https://github-readme-stats.vercel.app/api?username=o0PHOENIX0o&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="GitHub stats" width="80%" style="margin: 1rem 0;" />
+    </div>
+    <div style="margin: 1rem 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&layout=compact&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Top Languages" width="80%" style="margin: 1rem 0;" />
+    </div>
+    
 </div>
 
+  
 
 
 <div align="center">
@@ -68,6 +76,3 @@
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" /> 
     </a>
 </div>
-
-
-
