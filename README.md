@@ -50,18 +50,12 @@
 
 
 <div align="center">
-    <div style="margin: 1rem 0;">
-        <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=o0PHOENIX0o&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
-    </a>
-    </div>
-    <div style="margin: 1rem 0;">
-          <img src="https://github-readme-stats.vercel.app/api?username=o0PHOENIX0o&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="GitHub stats" width="80%" style="margin: 1rem 0;" />
-    </div>
-    <div style="margin: 1rem 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&layout=compact&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Top Languages" width="80%" style="margin: 1rem 0;" />
-    </div>
-    
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=o0PHOENIX0o&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=o0PHOENIX0o&hide_border=false&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="GitHub stats" width="80%" style="margin: 1rem 0;" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&layout=compact&hide_border=false&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Top Languages" width="80%" style="margin: 1rem 0;" />
 </div>
 
   
