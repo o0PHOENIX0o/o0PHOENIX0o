@@ -50,15 +50,11 @@
 
 
 <div align="center">
-    <div style="margin: 1rem 0;">
-        <img width="80%" src="https://streak-stats.demolab.com/?user=o0phoenix0o&theme=react" />
-    </div>
-    <div style="margin: 1rem 0;">
-        <img width="80%" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="o0PHOENIX0o" />
-    </div>
-    <div style="margin: 1rem 0;">
-        <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="o0PHOENIX0o" />
-    </div>
+    <img width="80%" src="https://streak-stats.demolab.com/?user=o0phoenix0o&theme=react" />
+    <br><br>
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en" alt="o0PHOENIX0o" />
+    <br><br>
+    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=o0phoenix0o&show_icons=true&theme=dracula&locale=en&layout=compact" alt="o0PHOENIX0o" />
 </div>
 
 
