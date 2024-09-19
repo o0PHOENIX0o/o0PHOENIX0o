@@ -50,6 +50,7 @@
 
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=o0PHOENIX0o&color=blue&label=Profile+Views&style=flat-square" alt="Profile Views" />
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=o0PHOENIX0o&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
     <br><br>
