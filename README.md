@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🌱+Currently+learning+React;💻+Building+cool+stuff+at+ujjwal-lehri.vercel.app;⚡+Web+Dev+%2B+Embedded+Systems+%2B+Electronics;📡+Bridging+hardware+and+software">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🌱+Currently+learning+System+Design;💻+Building+cool+stuff+at+ujjwal-lehri.vercel.app;⚡+Web+Dev+%2B+Embedded+Systems+%2B+Electronics;📡+Bridging+hardware+and+software">
 
 <br/><br/>
 
